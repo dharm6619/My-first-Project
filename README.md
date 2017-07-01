@@ -1,2 +1,3 @@
-# My-first-Project
-This is the first open source project I am going to make .  It will consist of a website and an android app... for any particular thing
+# My-First-Project
+It will be a website and an app which will store passwords and the accounts which we use in different places
+Lets see... Its my first work and lets see how it goes
