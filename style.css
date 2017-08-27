@@ -1,0 +1,33 @@
+/* Styles go here */
+
+.orange_text
+{
+color : orange
+}
+.green_text
+{
+color : green
+}
+.red_text
+{
+color : red
+}
+.blue_text
+{
+color: #326872
+}
+ .p {
+    font-size: 24px;}
+    .a {
+    font-size: 16px;}
+    .black_text
+    {
+    color: black
+    }
+    .bl_text
+    {
+    color: blue
+    }
+    .image {
+    width: 100px;
+  }
